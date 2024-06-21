@@ -1,0 +1,19 @@
+\n\n\n\n
+\n\n\n\n
+[mpiexec@DESKTOP-DVS9T38] Sending Ctrl-C to processes as requested
+[mpiexec@DESKTOP-DVS9T38] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+Ctrl-C caught... cleaning up processes
+[mpiexec@DESKTOP-DVS9T38] Sending Ctrl-C to processes as requested
+[mpiexec@DESKTOP-DVS9T38] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+Ctrl-C caught... cleaning up processes
+\n\n\n\n
+[mpiexec@DESKTOP-DVS9T38] Sending Ctrl-C to processes as requested
+[mpiexec@DESKTOP-DVS9T38] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+0.045286 0.120138 0.064651
+0.108710 0.284831 0.157772
+0.323638 0.581464 0.431818
+0.752359 1.543158 0.984767
+\n\n\n\n
